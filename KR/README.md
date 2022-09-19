@@ -138,8 +138,6 @@
 
 ## Lab Experience
 
----
-
 ### Distributed / Cloud Computing Lab 학부 연구생
 
 - 2021.12 ~ 2022.03
@@ -147,11 +145,7 @@
 
 # Presentation & Article
 
----
-
 ## Education
-
----
 
 ### 고려대학교 컴퓨터학과
 
